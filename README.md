@@ -1,13 +1,13 @@
 # Timers
 
 Timer React Components built using Javascript intervals.
-Both timers can start, stop, resume, and reset.
+All the timers can Play, Pause & Reset. The total counter will reflect the total time of each timer.
 
 
 ## Instructions
 
 To install, clone or download the repository.
-in the project folder, run the command
+in the project folder, run bellow command (you should have Node & NPM installed);
 
 ```javascript
 npm install
@@ -19,7 +19,7 @@ then
 npm start
 ```
 
-to run the app in development mode
+to run the app in development mode.
 
 ## Tools
 
